@@ -1,0 +1,10 @@
+{
+  "name": "The Infinite Ladder of Thought",
+  "description": "An introspective piece by Asma, exploring the endless pursuit of knowledge and imagination. The artwork combines surrealism with subtle symbolism, depicting a lone figure facing a towering ladder of possibilities in a world of binary chaos.",
+  "image": "assets/InfiniteLadder.png",
+  "attributes": [
+    { "trait_type": "Style", "value": "Surrealism" },
+    { "trait_type": "Medium", "value": "Digital Art" },
+    { "trait_type": "Author", "value": "Asma" }
+  ]
+}
